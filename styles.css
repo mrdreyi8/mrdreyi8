@@ -11,4 +11,7 @@ html {
 main h1 {
  margin: 0 auto;
  color: red;
+ text-align: center;
+  font-size: 3rem;
+  border: 1px solid black;
 }
